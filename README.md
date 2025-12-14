@@ -56,7 +56,7 @@ I(x) = I_0 \left( \frac{\sin \beta}{\beta} \right)^2 \cos^2 \delta
 1. 克隆或下载本仓库至本地：
 
    ```bash
-   git clone https://github.com/yourname/Young-Interference-Simulation.git
+   git clone https://github.com/zhouxing111/-matlab-/.git
    ```
 
 2. 将 MATLAB 当前路径切换至项目目录
@@ -78,11 +78,10 @@ I(x) = I_0 \left( \frac{\sin \beta}{\beta} \right)^2 \cos^2 \delta
 ## 项目结构说明
 
 ```
-Young-Interference-Simulation/
+main/
 │
 ├── Young_GUI.m        % 主程序文件（GUI 与仿真逻辑）
 ├── README.md          % 项目说明文档
-└── docs/              % （可选）课程论文或说明文档
 ```
 
 ---
